@@ -8,10 +8,10 @@ Hey there, fellow Emacs enthusiasts! ✨ This is my personal Emacs configuration
 
 🌈 **Features:**
 
-✅ Handpicked selection of necessary packages for enhanced productivity.
-✅ Utilizes completion with Corfu and eglot for efficient coding sessions.
-✅ Includes programming language modes tailored to your needs.
-✅ Designed for speed and simplicity, keeping your Emacs environment light. 🚀
+✅ Handpicked selection of necessary packages for enhanced productivity.  
+✅ Utilizes completion with Corfu and eglot for efficient coding sessions.  
+✅ Includes programming language modes tailored to your needs.  
+✅ Designed for speed and simplicity, keeping your Emacs environment light. 🚀  
 
 🚀 **Getting Started:**
 
